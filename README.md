@@ -49,7 +49,7 @@ Each entry records machine ID, component type, shift, inspection result, and geo
 - 🎥 **YouTube** – [@elleintech](https://www.youtube.com/@elleintech)  
 - 👩‍💻 **GitHub** – [michellealzola](https://github.com/michellealzola)  
 - 📱 **Instagram** – [@elleintech](https://www.instagram.com/elleintech/)  
-- 📘 **Facebook** – [Michelle Alzola](https://www.facebook.com/profile.php?id=61575734347776)  
+- 📘 **Facebook** – [Python with Elle](https://www.facebook.com/profile.php?id=61575734347776)  
 
 ---
 
