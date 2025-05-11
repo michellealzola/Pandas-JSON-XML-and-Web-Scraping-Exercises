@@ -2,7 +2,7 @@
 
 This repository contains 20 hands-on exercises exploring how to load, transform, and analyze data using **pandas** with formats such as **JSON**, **XML**, and **HTML/Web Scraping**. The exercises are built on a **simulated Coordinate Measuring Machine (CMM)** dataset inspired by quality control practices in manufacturing.
 
-🔗 **[Read the accompanying blog post here]([https://python.michellealzoladesign.com](https://python.michellealzoladesign.com/mastering-json-xml-and-web-scraping-with-pandas-a-quality-control-simulation-using-cmm-data/)**  
+🔗 **[Read the accompanying blog post here](https://python.michellealzoladesign.com](https://python.michellealzoladesign.com/mastering-json-xml-and-web-scraping-with-pandas-a-quality-control-simulation-using-cmm-data/)**  
 It explains the purpose of each exercise and how these techniques apply to real-world QA/QC workflows in engineering.
 
 ---
