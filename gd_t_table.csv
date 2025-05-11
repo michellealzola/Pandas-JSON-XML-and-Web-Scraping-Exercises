@@ -1,0 +1,6 @@
+Category,Purpose,Key Symbols
+Form Controls,Specify feature shapes,"Straightness, Flatness, Circularity, Cylindricity"
+Profile Controls,Define 3D tolerance zones,"Line Profile, Surface Profile"
+Orientation Controls,Control angular relationships,"Perpendicularity, Angularity, Parallelism"
+Location Controls,Define linear dimensions,"Position, Concentricity, Symmetry"
+Runout Controls,Specify rotational variation,"Circular Runout, Total Runout"

@@ -1,0 +1,46 @@
+[
+    {
+        "Date": "2025-01-01",
+        "Shift": "Shift 1",
+        "Machine": {
+            "ID": "CMM B",
+            "Type": "Bridge"
+        },
+        "Component": {
+            "Type": "Cylinder",
+            "BatchID": "CMM6728"
+        },
+        "Measurements": {
+            "Flatness": 10.0,
+            "Circularity": 11.35,
+            "Cylindricity": 3.05,
+            "Straightness": 7.35,
+            "Perpendicularity": 20.43,
+            "Parallelism": 14.25,
+            "PositionTolerance": 28.11
+        },
+        "Result": "Fail"
+    },
+    {
+        "Date": "2025-01-01",
+        "Shift": "Shift 1",
+        "Machine": {
+            "ID": "CMM A",
+            "Type": "Bridge"
+        },
+        "Component": {
+            "Type": "Cylinder",
+            "BatchID": "CMM8120"
+        },
+        "Measurements": {
+            "Flatness": 8.3,
+            "Circularity": 14.07,
+            "Cylindricity": 7.94,
+            "Straightness": 6.76,
+            "Perpendicularity": 8.86,
+            "Parallelism": 13.19,
+            "PositionTolerance": 24.35
+        },
+        "Result": "Fail"
+    }
+]
